@@ -1,0 +1,7 @@
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 5 P.O.O\numeroCuadrado\bin\Debug\numeroCuadrado.exe.config
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 5 P.O.O\numeroCuadrado\bin\Debug\numeroCuadrado.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 5 P.O.O\numeroCuadrado\bin\Debug\numeroCuadrado.pdb
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 5 P.O.O\numeroCuadrado\obj\Debug\numeroCuadrado.csproj.AssemblyReference.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 5 P.O.O\numeroCuadrado\obj\Debug\numeroCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 5 P.O.O\numeroCuadrado\obj\Debug\numeroCuadrado.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 5 P.O.O\numeroCuadrado\obj\Debug\numeroCuadrado.pdb
