@@ -45,6 +45,13 @@ namespace numeroCuadrado
                     Console.WriteLine("Format error " + e.Message);
                     Console.ResetColor();
                 }
+                catch (OverflowException e)
+                {
+                    //Impresion de mensaje
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine(e.Message);
+                    Console.ResetColor();
+                }
                 //Mensaje para continuar
                 Console.Write("Presione ENTER para continuar . . . ");
                 Console.ReadKey();
